@@ -16,7 +16,8 @@
 
 <div style="display inline-block"></br>
 <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img align="center" alt="Python" src="https://img.shields.io/pypi/pyversions/py">
+<img align="center" alt="Python" src="https://img.shields.io/pypi/pyversions/typescript">
+<img align="center" alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square">
 <img align="center" alt="MYSQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
