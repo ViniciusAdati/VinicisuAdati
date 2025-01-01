@@ -7,15 +7,10 @@
 <br>
 <br>
 
-### Olaa, Devs!
+### Oii gente, tudo bem?!
 ---
 ### Meu nome é Vinicisu Adati, faço engenharia da computação e atualmente estou no meu 4º da faculdade. Estou na procura de melhorar meus conhecimentos e compartilhar o pouco que sei.
 
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusAdati&layout=compact)
-![ViniciusAdati GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusAdati&show_icons=true&theme=dracula)
 
 ## Tecnologias das quais tenho conhecimento
 
